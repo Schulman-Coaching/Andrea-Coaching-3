@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **This repository is superseded.** The canonical platform is
+> [`Schulman-Coaching/andrea-schulman-coaching-platform`](https://github.com/Schulman-Coaching/andrea-schulman-coaching-platform).
+> New product work and bug fixes should be made there.
+>
+> Scheduling, timezone, waitlist, and notification concepts are tracked as migration issues in the canonical repository.
+>
+> This repository is retained temporarily for migration review and historical
+> reference. It can be archived after the canonical migration is deployed and
+> verified.
+
 # Andrea Schulman - Scheduling & Payment System
 
 A comprehensive scheduling and payment platform for Andrea Schulman's educational programs, featuring three service types: one-on-one coaching, group programs, and hybrid programs with recorded content plus live Q&A sessions.
